@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://supremebioproducts.com/sitemap.xml
